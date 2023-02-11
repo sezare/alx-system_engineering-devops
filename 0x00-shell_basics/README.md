@@ -1,1 +1,1 @@
-This ALX School of gigs
+This ALX School of Software Engineering
